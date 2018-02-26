@@ -162,7 +162,7 @@ datasets = {"noisy_circles": noisy_circles,
             "no_structure":no_structure}
 
 ### START CODE HERE ### (choose your dataset)
-dataset = "gaussian_quantiles"
+dataset = "noisy_circles"
 ### END CODE HERE ###
 
 X, Y = datasets[dataset]
