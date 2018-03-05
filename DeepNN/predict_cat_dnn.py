@@ -220,9 +220,9 @@ def L_layer_model(X, Y, layers_dims, learning_rate = 0.0075, num_iterations = 30
     
     return parameters
     
-#parameters = L_layer_model(train_x, train_y, layers_dims, num_iterations = 2500, print_cost = True)
-#pred_train = predict(train_x, train_y, parameters)
-#pred_test = predict(test_x, test_y, parameters)
+parameters = L_layer_model(train_x, train_y, layers_dims, num_iterations = 2500, print_cost = True)
+pred_train = predict(train_x, train_y, parameters)
+pred_test = predict(test_x, test_y, parameters)
 
 ## START CODE HERE ##
 my_image = "my_image.jpg" # change this to the name of your image file 
