@@ -2,7 +2,6 @@
 """
 Created on Mon Mar 19 08:22:15 2018
 
-@author: gan0312
 """
 import numpy as np
 import collections as col
