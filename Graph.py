@@ -1,7 +1,16 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 26 08:31:53 2018
-
+https://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/
+https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/
+https://www.geeksforgeeks.org/applications-of-breadth-first-traversal/
+https://www.geeksforgeeks.org/applications-of-depth-first-search/
+https://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/
+https://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/
+https://www.geeksforgeeks.org/backttracking-set-5-m-coloring-problem/
+https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+https://www.geeksforgeeks.org/find-if-there-is-a-path-between-two-vertices-in-a-given-graph/
+https://www.geeksforgeeks.org/maximum-bipartite-matching/
 @author: Siva
 """
 from collections import defaultdict
