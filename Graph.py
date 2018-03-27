@@ -89,7 +89,7 @@ class Graph:
                 self.topologicalUtil(vertice,visited, stack)     
         stack.append(curvertice)
    
-    #idea that last node is the Mother    
+    #idea that last visited node is the Mother    
     def findMother(self):
         a,visited=self.verticecount()
         lastnode,lastvisited=self.DFS() 
